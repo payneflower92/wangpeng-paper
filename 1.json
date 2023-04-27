@@ -1,0 +1,1998 @@
+{
+  '201912': (
+  '/home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2019/201912.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv',
+  '2019',
+  '201912.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv'
+  ),
+  '201911': (
+  '/home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2019/201911.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv',
+  '2019',
+  '201911.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv'
+  ),
+  '201910': (
+  '/home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2019/201910.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv',
+  '2019',
+  '201910.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv'
+  ),
+  '201909': (
+  '/home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2019/201909.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv',
+  '2019',
+  '201909.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv'
+  ),
+  '201908': (
+  '/home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2019/201908.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv',
+  '2019',
+  '201908.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv'
+  ),
+  '201907': (
+  '/home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2019/201907.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv',
+  '2019',
+  '201907.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv'
+  ),
+  '201906': (
+  '/home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2019/201906.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv',
+  '2019',
+  '201906.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv'
+  ),
+  '201905': (
+  '/home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2019/201905.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv',
+  '2019',
+  '201905.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv'
+  ),
+  '201904': (
+  '/home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2019/201904.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv',
+  '2019',
+  '201904.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv'
+  ),
+  '201903': (
+  '/home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2019/201903.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv',
+  '2019',
+  '201903.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv'
+  ),
+  '201902': (
+  '/home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2019/201902.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv',
+  '2019',
+  '201902.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv'
+  ),
+  '201901': (
+  '/home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2019/201901.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv',
+  '2019',
+  '201901.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv'
+  ),
+  '2019.yealySumPrecipitation': (
+  '/home/cloudam/wpThesis/TRMMtifATPKplusRegularization/yearly/2019.yealySumPrecipitation.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv',
+  'yearly',
+  '2019.yealySumPrecipitation.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv'
+  ),
+  '201812': (
+  '/home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2018/201812.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv',
+  '2018',
+  '201812.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv'
+  ),
+  '201811': (
+  '/home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2018/201811.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv',
+  '2018',
+  '201811.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv'
+  ),
+  '201810': (
+  '/home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2018/201810.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv',
+  '2018',
+  '201810.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv'
+  ),
+  '201809': (
+  '/home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2018/201809.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv',
+  '2018',
+  '201809.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv'
+  ),
+  '201808': (
+  '/home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2018/201808.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv',
+  '2018',
+  '201808.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv'
+  ),
+  '201807': (
+  '/home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2018/201807.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv',
+  '2018',
+  '201807.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv'
+  ),
+  '201806': (
+  '/home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2018/201806.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv',
+  '2018',
+  '201806.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv'
+  ),
+  '201805': (
+  '/home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2018/201805.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv',
+  '2018',
+  '201805.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv'
+  ),
+  '201804': (
+  '/home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2018/201804.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv',
+  '2018',
+  '201804.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv'
+  ),
+  '201803': (
+  '/home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2018/201803.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv',
+  '2018',
+  '201803.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv'
+  ),
+  '201802': (
+  '/home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2018/201802.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv',
+  '2018',
+  '201802.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv'
+  ),
+  '201801': (
+  '/home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2018/201801.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv',
+  '2018',
+  '201801.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv'
+  ),
+  '2018.yealySumPrecipitation': (
+  '/home/cloudam/wpThesis/TRMMtifATPKplusRegularization/yearly/2018.yealySumPrecipitation.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv',
+  'yearly',
+  '2018.yealySumPrecipitation.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv'
+  ),
+  '201712': (
+  '/home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2017/201712.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv',
+  '2017',
+  '201712.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv'
+  ),
+  '201711': (
+  '/home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2017/201711.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv',
+  '2017',
+  '201711.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv'
+  ),
+  '201710': (
+  '/home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2017/201710.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv',
+  '2017',
+  '201710.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv'
+  ),
+  '201709': (
+  '/home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2017/201709.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv',
+  '2017',
+  '201709.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv'
+  ),
+  '201708': (
+  '/home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2017/2017
+  08.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2017
+  ', '
+  201708.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201707
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2017/201707.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2017
+  ', '
+  201707.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201706
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2017/201706.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2017
+  ', '
+  201706.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201705
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2017/201705.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2017
+  ', '
+  201705.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201704
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2017/201704.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2017
+  ', '
+  201704.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201703
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2017/201703.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2017
+  ', '
+  201703.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201702
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2017/201702.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2017
+  ', '
+  201702.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201701
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2017/201701.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2017
+  ', '
+  201701.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  2017.yealySumPrecipitation
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/yearly/2017.yealySumPrecipitation.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  yearly
+  ', '
+  2017.yealySumPrecipitation.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201612
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2016/201612.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2016
+  ', '
+  201612.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201611
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2016/201611.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2016
+  ', '
+  201611.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201610
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2016/201610.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2016
+  ', '
+  201610.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201609
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2016/201609.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2016
+  ', '
+  201609.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201608
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2016/201608.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2016
+  ', '
+  201608.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201607
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2016/201607.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2016
+  ', '
+  201607.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201606
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2016/201606.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2016
+  ', '
+  201606.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201605
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2016/201605.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2016
+  ', '
+  201605.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201604
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2016/201604.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2016
+  ', '
+  201604.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201603
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2016/201603.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2016
+  ', '
+  201603.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201602
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2016/201602.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2016
+  ', '
+  201602.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201601
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2016/201601.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2016
+  ', '
+  201601.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  2016.yealySumPrecipitation
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/yearly/2016.yealySumPrecipitation.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  yearly
+  ', '
+  2016.yealySumPrecipitation.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201512
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2015/201512.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2015
+  ', '
+  201512.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201511
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2015/201511.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2015
+  ', '
+  201511.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201510
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2015/201510.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2015
+  ', '
+  201510.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201509
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2015/201509.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2015
+  ', '
+  201509.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201508
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2015/201508.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2015
+  ', '
+  201508.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201507
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2015/201507.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2015
+  ', '
+  201507.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201506
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2015/201506.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2015
+  ', '
+  201506.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201505
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2015/201505.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2015
+  ', '
+  201505.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201504
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2015/201504.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2015
+  ', '
+  20
+  1504.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201503
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2015/201503.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2015
+  ', '
+  201503.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201502
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2015/201502.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2015
+  ', '
+  201502.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201501
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2015/201501.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2015
+  ', '
+  201501.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  2015.yealySumPrecipitation
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/yearly/2015.yealySumPrecipitation.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  yearly
+  ', '
+  2015.yealySumPrecipitation.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201412
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2014/201412.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2014
+  ', '
+  201412.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201411
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2014/201411.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2014
+  ', '
+  201411.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201410
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2014/201410.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2014
+  ', '
+  201410.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201409
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2014/201409.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2014
+  ', '
+  201409.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201408
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2014/201408.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2014
+  ', '
+  201408.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201407
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2014/201407.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2014
+  ', '
+  201407.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201406
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2014/201406.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2014
+  ', '
+  201406.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201405
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2014/201405.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2014
+  ', '
+  201405.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201404
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2014/201404.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2014
+  ', '
+  201404.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201403
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2014/201403.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2014
+  ', '
+  201403.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201402
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2014/201402.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2014
+  ', '
+  201402.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201401
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2014/201401.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2014
+  ', '
+  201401.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  2014.yealySumPrecipitation
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/yearly/2014.yealySumPrecipitation.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  yearly
+  ', '
+  2014.yealySumPrecipitation.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201312
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2013/201312.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2013
+  ', '
+  201312.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201311
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2013/201311.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2013
+  ', '
+  201311.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201310
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2013/201310.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2013
+  ', '
+  201310.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201309
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2013/201309.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2013
+  ', '
+  201309.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201308
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2013/201308.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2013
+  ', '
+  201308.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201307
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2013/201307.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2013
+  ', '
+  201307.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201306
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2013/201306.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2013
+  ', '
+  201306.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201305
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2013/201305.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2013
+  ', '
+  201305.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201304
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2013/201304.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2013
+  ', '
+  201304.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201303
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2013/201303.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2013
+  ', '
+  201303.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201302
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2013/201302.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2013
+  ', '
+  201302.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201301
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2013/201301.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2013
+  ', '
+  201301.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  2013.yealySumPrecipitation
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/yearly/2013.yealySumPrecipitation.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  yearly
+  ', '
+  2013.yealySumPrecipitation.TRMM1K
+  mAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201212
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2012/201212.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2012
+  ', '
+  201212.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201211
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2012/201211.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2012
+  ', '
+  201211.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201210
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2012/201210.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2012
+  ', '
+  201210.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201209
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2012/201209.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2012
+  ', '
+  201209.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201208
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2012/201208.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2012
+  ', '
+  201208.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201207
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2012/201207.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2012
+  ', '
+  201207.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201206
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2012/201206.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2012
+  ', '
+  201206.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201205
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2012/201205.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2012
+  ', '
+  201205.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201204
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2012/201204.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2012
+  ', '
+  201204.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201203
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2012/201203.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2012
+  ', '
+  201203.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201202
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2012/201202.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2012
+  ', '
+  201202.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201201
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2012/201201.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2012
+  ', '
+  201201.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  2012.yealySumPrecipitation
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/yearly/2012.yealySumPrecipitation.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  yearly
+  ', '
+  2012.yealySumPrecipitation.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201112
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2011/201112.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2011
+  ', '
+  201112.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201111
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2011/201111.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2011
+  ', '
+  201111.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201110
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2011/201110.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2011
+  ', '
+  201110.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201109
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2011/201109.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2011
+  ', '
+  201109.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201108
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2011/201108.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2011
+  ', '
+  201108.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201107
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2011/201107.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2011
+  ', '
+  201107.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201106
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2011/201106.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2011
+  ', '
+  201106.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201105
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2011/201105.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2011
+  ', '
+  201105.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201104
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2011/201104.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2011
+  ', '
+  201104.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201103
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2011/201103.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2011
+  ', '
+  201103.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201102
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2011/201102.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2011
+  ', '
+  201102.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201101
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2011/201101.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2011
+  ', '
+  201101.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  2011.yealySumPrecipitation
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/yearly/2011.yealySumPrecipitation.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  yearly
+  ', '
+  2011.yealySumPrecipitation.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201012
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2010/201012.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2010
+  ', '
+  201012.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201011
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2010/201011.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2010
+  ', '
+  201011.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201010
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2010/201010.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2010
+  ', '
+  201010.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201009
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2010/201009.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2010
+  ', '
+  201009.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201008
+  ': ('
+  /home/c
+  loudam/wpThesis/TRMMtifATPKplusRegularization/2010/201008.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2010
+  ', '
+  201008.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201007
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2010/201007.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2010
+  ', '
+  201007.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201006
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2010/201006.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2010
+  ', '
+  201006.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201005
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2010/201005.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2010
+  ', '
+  201005.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201004
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2010/201004.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2010
+  ', '
+  201004.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201003
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2010/201003.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2010
+  ', '
+  201003.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201002
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2010/201002.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2010
+  ', '
+  201002.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  201001
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2010/201001.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2010
+  ', '
+  201001.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  2010.yealySumPrecipitation
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/yearly/2010.yealySumPrecipitation.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  yearly
+  ', '
+  2010.yealySumPrecipitation.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200912
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2009/200912.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2009
+  ', '
+  200912.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200911
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2009/200911.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2009
+  ', '
+  200911.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200910
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2009/200910.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2009
+  ', '
+  200910.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200909
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2009/200909.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2009
+  ', '
+  200909.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200908
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2009/200908.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2009
+  ', '
+  200908.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200907
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2009/200907.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2009
+  ', '
+  200907.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200906
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2009/200906.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2009
+  ', '
+  200906.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200905
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2009/200905.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2009
+  ', '
+  200905.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200904
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2009/200904.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2009
+  ', '
+  200904.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200903
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2009/200903.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2009
+  ', '
+  200903.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200902
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2009/200902.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2009
+  ', '
+  200902.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200901
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2009/200901.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2009
+  ', '
+  200901.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  2009.yealySumPrecipitation
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/yearly/2009.yealySumPrecipitation.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  yearly
+  ', '
+  2009.yealySumPrecipitation.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200812
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2008/200812.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2008
+  ', '
+  200812.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200811
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2008/200811.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2008
+  ', '
+  200811.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200810
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2008/200810.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2008
+  ', '
+  200810.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200809
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2008/200809.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2008
+  ', '
+  200809.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200808
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2008/200808.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2008
+  ', '
+  200808.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200807
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2008/200807.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2008
+  ', '
+  200807.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200806
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2008/200806.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2008
+  ', '
+  200806.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200805
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2008/200805.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2008
+  ', '
+  200805.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200804
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2008/200804.TRMM1KmAfterQHshp
+  MaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2008
+  ', '
+  200804.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200803
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2008/200803.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2008
+  ', '
+  200803.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200802
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2008/200802.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2008
+  ', '
+  200802.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200801
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2008/200801.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2008
+  ', '
+  200801.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  2008.yealySumPrecipitation
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/yearly/2008.yealySumPrecipitation.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  yearly
+  ', '
+  2008.yealySumPrecipitation.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200712
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2007/200712.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2007
+  ', '
+  200712.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200711
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2007/200711.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2007
+  ', '
+  200711.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200710
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2007/200710.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2007
+  ', '
+  200710.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200709
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2007/200709.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2007
+  ', '
+  200709.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200708
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2007/200708.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2007
+  ', '
+  200708.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200707
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2007/200707.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2007
+  ', '
+  200707.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200706
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2007/200706.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2007
+  ', '
+  200706.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200705
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2007/200705.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2007
+  ', '
+  200705.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200704
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2007/200704.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2007
+  ', '
+  200704.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200703
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2007/200703.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2007
+  ', '
+  200703.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200702
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2007/200702.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2007
+  ', '
+  200702.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200701
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2007/200701.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2007
+  ', '
+  200701.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  2007.yealySumPrecipitation
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/yearly/2007.yealySumPrecipitation.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  yearly
+  ', '
+  2007.yealySumPrecipitation.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200612
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2006/200612.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2006
+  ', '
+  200612.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200611
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2006/200611.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2006
+  ', '
+  200611.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200610
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2006/200610.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2006
+  ', '
+  200610.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200609
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2006/200609.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2006
+  ', '
+  200609.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200608
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2006/200608.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2006
+  ', '
+  200608.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200607
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2006/200607.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2006
+  ', '
+  200607.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200606
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2006/200606.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2006
+  ', '
+  200606.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200605
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2006/200605.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2006
+  ', '
+  200605.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200604
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2006/200604.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2006
+  ', '
+  200604.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200603
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2006/200603.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2006
+  ', '
+  200603.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200602
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2006/200602.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2006
+  ', '
+  200602.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200601
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2006/200601.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2006
+  ', '
+  200601.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  2006.yealySumPrecipitation
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/yearly/2006.yealySumPrecipitation.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOK
+  atpk.csv
+  ', '
+  yearly
+  ', '
+  2006.yealySumPrecipitation.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200512
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2005/200512.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2005
+  ', '
+  200512.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200511
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2005/200511.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2005
+  ', '
+  200511.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200510
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2005/200510.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2005
+  ', '
+  200510.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200509
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2005/200509.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2005
+  ', '
+  200509.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200508
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2005/200508.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2005
+  ', '
+  200508.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200507
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2005/200507.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2005
+  ', '
+  200507.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200506
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2005/200506.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2005
+  ', '
+  200506.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200505
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2005/200505.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2005
+  ', '
+  200505.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200504
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2005/200504.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2005
+  ', '
+  200504.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200503
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2005/200503.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2005
+  ', '
+  200503.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200502
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2005/200502.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2005
+  ', '
+  200502.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200501
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2005/200501.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2005
+  ', '
+  200501.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  2005.yealySumPrecipitation
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/yearly/2005.yealySumPrecipitation.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  yearly
+  ', '
+  2005.yealySumPrecipitation.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200412
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2004/200412.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2004
+  ', '
+  200412.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200411
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2004/200411.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2004
+  ', '
+  200411.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200410
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2004/200410.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2004
+  ', '
+  200410.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200409
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2004/200409.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2004
+  ', '
+  200409.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200408
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2004/200408.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2004
+  ', '
+  200408.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200407
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2004/200407.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2004
+  ', '
+  200407.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200406
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2004/200406.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2004
+  ', '
+  200406.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200405
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2004/200405.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2004
+  ', '
+  200405.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200404
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2004/200404.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2004
+  ', '
+  200404.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200403
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2004/200403.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2004
+  ', '
+  200403.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200402
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2004/200402.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2004
+  ', '
+  200402.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200401
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2004/200401.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2004
+  ', '
+  200401.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  2004.yealySumPrecipitation
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/yearly/2004.yealySumPrecipitation.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  yearly
+  ', '
+  2004.yealySumPrecipitation.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200312
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2003/200312.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2003
+  ', '
+  200312.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200311
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2003/200311.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2003
+  ', '
+  200311.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200310
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2003/200310.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2003
+  ', '
+  200310.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200309
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2003/200309.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2003
+  ', '
+  200309.TRMM1KmAfterQHshpMaskAndAT
+  PK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200308
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2003/200308.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2003
+  ', '
+  200308.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200307
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2003/200307.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2003
+  ', '
+  200307.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200306
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2003/200306.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2003
+  ', '
+  200306.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200305
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2003/200305.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2003
+  ', '
+  200305.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200304
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2003/200304.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2003
+  ', '
+  200304.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200303
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2003/200303.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2003
+  ', '
+  200303.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200302
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2003/200302.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2003
+  ', '
+  200302.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200301
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2003/200301.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2003
+  ', '
+  200301.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  2003.yealySumPrecipitation
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/yearly/2003.yealySumPrecipitation.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  yearly
+  ', '
+  2003.yealySumPrecipitation.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200212
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2002/200212.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2002
+  ', '
+  200212.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200211
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2002/200211.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2002
+  ', '
+  200211.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200210
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2002/200210.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2002
+  ', '
+  200210.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200209
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2002/200209.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2002
+  ', '
+  200209.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200208
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2002/200208.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2002
+  ', '
+  200208.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200207
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2002/200207.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2002
+  ', '
+  200207.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200206
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2002/200206.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2002
+  ', '
+  200206.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200205
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2002/200205.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2002
+  ', '
+  200205.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200204
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2002/200204.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2002
+  ', '
+  200204.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200203
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2002/200203.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2002
+  ', '
+  200203.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200202
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2002/200202.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2002
+  ', '
+  200202.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200201
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2002/200201.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2002
+  ', '
+  200201.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  2002.yealySumPrecipitation
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/yearly/2002.yealySumPrecipitation.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  yearly
+  ', '
+  2002.yealySumPrecipitation.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200112
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2001/200112.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2001
+  ', '
+  200112.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200111
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2001/200111.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2001
+  ', '
+  200111.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200110
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2001/200110.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2001
+  ', '
+  200110.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200109
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2001/200109.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2001
+  ', '
+  200109.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200108
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2001/200108.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2001
+  ', '
+  200108.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200107
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2001/200107.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2001
+  ', '
+  200107.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200106
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2001/200106.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2001
+  ', '
+  200106.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200105
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2001/200105.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2001
+  ', '
+  200105.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200104
+  ': ('
+  /home/cloudam/wpThesis/TRMM
+  tifATPKplusRegularization/2001/200104.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2001
+  ', '
+  200104.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200103
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2001/200103.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2001
+  ', '
+  200103.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200102
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2001/200102.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2001
+  ', '
+  200102.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200101
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2001/200101.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2001
+  ', '
+  200101.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  2001.yealySumPrecipitation
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/yearly/2001.yealySumPrecipitation.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  yearly
+  ', '
+  2001.yealySumPrecipitation.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200012
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2000/200012.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2000
+  ', '
+  200012.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200011
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2000/200011.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2000
+  ', '
+  200011.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200010
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2000/200010.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2000
+  ', '
+  200010.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200009
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2000/200009.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2000
+  ', '
+  200009.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200008
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2000/200008.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2000
+  ', '
+  200008.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200007
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2000/200007.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2000
+  ', '
+  200007.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200006
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2000/200006.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2000
+  ', '
+  200006.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200005
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2000/200005.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2000
+  ', '
+  200005.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200004
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2000/200004.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2000
+  ', '
+  200004.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200003
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2000/200003.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2000
+  ', '
+  200003.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200002
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2000/200002.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2000
+  ', '
+  200002.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  200001
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/2000/200001.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  2000
+  ', '
+  200001.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  '), '
+  2000.yealySumPrecipitation
+  ': ('
+  /home/cloudam/wpThesis/TRMMtifATPKplusRegularization/yearly/2000.yealySumPrecipitation.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ', '
+  yearly
+  ', '
+  2000.yealySumPrecipitation.TRMM1KmAfterQHshpMaskAndATPK.smoothedPointMatrixOKatpk.csv
+  ')}
